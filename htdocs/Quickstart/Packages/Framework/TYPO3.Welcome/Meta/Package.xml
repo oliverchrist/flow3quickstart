@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://typo3.org/ns/2008/flow3/package">
+	<key>TYPO3.Welcome</key>
+	<title>Welcome package with default view for FLOW3</title>
+	<description>This package provides a start screen for the FLOW3 distribution
+	with links to online resources.</description>
+	<version>1.0.4</version>
+</package>

@@ -1,0 +1,26 @@
+UPGRADING INSTRUCTIONS
+----------------------
+
+This file contains instructions for upgrading your FLOW3 1.0.3 installation
+to FLOW3 1.0.4.
+
+USING RELEASE ARCHIVES
+----------------------
+
+If you use release archives, unpacking the new archive on top of the existing
+code should be sufficient. Make sure to clean the caches afterwards using
+ ./flow3 flow3:cache:flush
+
+USING GIT
+---------
+
+If you live on the bleeding edge, you probably are ahead of 1.0.4 by now.
+
+How you best update the codebase depends on how you tied the FLOW3 code into
+your local repository, so we cannot give advice that fits all.
+
+TROUBLESHOOTING
+---------------
+
+If you run into trouble, make sure to check the logs. If that doesn't help,
+feel free to join us in IRC on freenode at #flow3 and ask for help.
